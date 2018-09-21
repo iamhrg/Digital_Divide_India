@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+A summer project turned pathbreaking Research. The research paper entitled to this project has been published by ACM carrying the title,
+"Measuring Subnational Digital Inequality through Gender Gaps in Facebook use". 
 
-You can use the [editor on GitHub](https://github.com/iamhrg/Digital_Divide_India/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Research paper is available to read on -> https://dl.acm.org/citation.cfm?id=3212698
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamhrg/Digital_Divide_India/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Info:
+Improving digital literacy and reducing gender inequalities in internet access and use have been recognized as important development targets within the United Nations' Sustainable Development Goals (SDGs). Tracking progress on digital gender inequalities however is challenging due to limited gender-disaggregated data, especially in less developed country contexts and at the subnational level. We show how data obtained from social media advertising APIs can be used to generate a real-time measure of digital gender inequality. Using data from the Facebook (FB) Marketing API, we document gender gaps in FB use across Indian states and examine to what extent state-level development indicators help predict these gender gaps. Higher GDP per capita, literacy and internet penetration are associated with lower gender gaps in FB presence. These state-level development predictors however are only able to explain a small proportion (7.3%) of the overall variation in gender gaps on FB. Employment-related occupational or industry characteristics from within FB emerge as important variables associated with more gender-balanced FB use.
